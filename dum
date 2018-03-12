@@ -1,4 +1,3 @@
-print("modifié en local")
 print("hello world!")
 print("hello cutter!")
 print("hello, ça mouille!")
